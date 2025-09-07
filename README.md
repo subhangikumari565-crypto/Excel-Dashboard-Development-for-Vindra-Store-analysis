@@ -15,6 +15,8 @@ Throughout this project, I enhanced my skills in:
  ✅ Data Visualization – Creating interactive charts and visuals that tell a story
 ** STEP7:**
 ✅ Report Creation – Summarizing the findings in a comprehensive and professional format
+
+**DASHBOARD **
 https://github.com/subhangikumari565-crypto/Excel-Dashboard-Development-for-Vindra-Store-analysis/blob/main/IMG-20250907-WA0005.jpg
 
 💡 This hands-on experience strengthened my understanding of Excel as a powerful tool for business intelligence and decision-making.
