@@ -1,3 +1,4 @@
+IMG-20250907-WA0005.jpg
 repo:subhangikumari565-crypto/Excel-Dashboard-Development-for-Vindra-Store-analysis
 🚀 Project Update: Excel Dashboard for Vindra Store 📊
 Recently, I had the opportunity to work on an exciting Excel project where I transformed raw data from Vindra Store into a clean, insightful, and visually appealing dashboard.
